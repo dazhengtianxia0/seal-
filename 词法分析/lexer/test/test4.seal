@@ -1,0 +1,11 @@
+/*
+A correct example of string
+*/
+var s String;
+s = "test string \\t";
+s = `\0`;
+s = "aa\0";
+s = "aa
+aa";
+s = "\0
+";
